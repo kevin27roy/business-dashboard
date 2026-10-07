@@ -25,6 +25,12 @@
       }
     },
     {
+      "source": "/health",
+      "destination": {
+        "service": "backend"
+      }
+    },
+    {
       "source": "/(.*)",
       "destination": {
         "service": "frontend"
