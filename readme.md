@@ -2,7 +2,6 @@
 
 A full-stack web application for analyzing approximately 300,000 business transaction records through an interactive analytics dashboard.
 
-The project was developed as part of a Software Developer Intern technical assessment. The main goal was to transform a large raw transaction dataset into a fast, usable, and visually clear application while making practical decisions around data storage, querying, filtering, and deployment.
 
 ## Overview
 
